@@ -8,6 +8,10 @@ function toto(){
 	return 	var_dump("Bonjours, Toto !!! ");
 }
 
+public function FunctionName($value='')
+{
+	# code...
+}
 //four
 
 ?>
